@@ -11,4 +11,6 @@ This github repository holds the necessary artifacts for participating in the ha
 1. Understanding of Machine Learning Concepts
 2. Programming skills (Python, NLP libraries like Hugging Face, transformers)
 3. Experience with natural language processing (NLP) and text-based AI models (e.g., language models, chatbots)
+## Getting started with IDC
+
 ## Problem Statement
